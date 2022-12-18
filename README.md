@@ -1,9 +1,6 @@
 
-# **3DCV HW2**
-Name: 吳泓毅  
-Department: NTU CSIE  
-Student ID: R11922029 
-
+# **Camera Pose Estimation**
+ 
 ## **Problem 1: 2D-3D Matching**
 Dataset: [Download](https://drive.google.com/u/0/uc?export=download&confirm=qrVw&id=1GrCpYJFc8IZM_Uiisq6e8UxwVMFvr4AJ)<br>
 
