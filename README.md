@@ -177,8 +177,8 @@ I loaded rotation vectors and translation vectors gotten before and loaded cube 
 
 ## **Build environment**
 ```shell
-conda create --name 3dcvhw2 python=3.8 
-conda activate 3dcvhw2
+conda create --name camera_pose python=3.8 
+conda activate camera_pose
 pip install -r requirements.txt 
 ```
 
